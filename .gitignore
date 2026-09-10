@@ -1,3 +1,21 @@
+# Python cache
 __pycache__/
-*.pkl
+*.py[cod]
+*$py.class
+
+# Virtual environments
 venv/
+.venv/
+env/
+
+# Model artifacts generated locally
+*.pkl
+
+# Jupyter / IDE files
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
