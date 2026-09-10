@@ -45,8 +45,6 @@ Built and compared multiple regression models using the **California Housing dat
 
 ## 📈 Prediction Visualization
 
-The repository includes an actual-vs-predicted house-price visualization generated during the internship work.
-
 ![Actual vs Predicted House Prices](actual_vs_predicted.png)
 
 ## 🛠️ Tech Stack
@@ -70,8 +68,6 @@ maincrafts-ai-ml-internship/
 ├── linear_regression_model.pkl
 └── requirements.txt
 ```
-
-> `*.pkl` files are ignored for newly generated local model artifacts. The existing tracked model file is retained as part of the original internship work.
 
 ## ▶️ How to Run
 
@@ -124,6 +120,6 @@ python task2.py
 
 ## 👩‍💻 Author
 
-**Nomitha Reddy**
+**THURPU CHINNABBA REDDY NOMITHA**
 
 AI & ML | Python | Machine Learning
